@@ -1,2 +1,0 @@
-# Digiland
-digital store website
